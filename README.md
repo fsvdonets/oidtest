@@ -14,7 +14,7 @@ Ref: https://www.gluu.org/blog/openid-connect-implicit-client/
 
 **1:** install the nodejs code in this repository on a suitable machine that resides on the same network as the gluu server.
 
-git clone https://github.com/MikShau/oidtest.git
+git clone [https://github.com/MikShau/oidtest.git](https://github.com/fsvdonets/oidtest)
 
 npm install
 npm start
