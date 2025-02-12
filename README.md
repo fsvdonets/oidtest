@@ -5,9 +5,8 @@ it is a nodejs - express module that attempt to authenticate with the Gluu serve
 On a server with node and npm installed, clone to a new directory and npm install. If no errors, npm start. 
 app is accessed on port 3000. modify test.html to fit the client definitions in the gluu server and test by:
 
-http://fqdn or ip of node box:3000/test.html
 
-[http:// fqdn or ip of node box:3000/test.html](http://localhost:3000/test.html)
+[http://fqdn or ip of node box:3000/test.html](http://localhost:3000/test.html)
 
 The code will contact the gluu server and display a page with info.
 click the button to authenticate.
