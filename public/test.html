@@ -11,10 +11,10 @@
         <script>
             var clientInfo = {
                 client_id : '6396413c-64f5-4c8a-9825-568055a26e1d',
-                redirect_uri : 'http://ubuntu2004.fsadp.local:3000/login-callback.html'
+                redirect_uri : 'http://ubuntu22.dia.local:3000/login-callback.html'
             };
 
-            var providerInfo = OIDC.discover('https://winserv19.fsadp.local/adfs');
+            var providerInfo = OIDC.discover('https://winserv19.dia.local/adfs');
             OIDC.setClientInfo( clientInfo );
             OIDC.setProviderInfo( providerInfo );
             OIDC.storeInfo(providerInfo, clientInfo);
