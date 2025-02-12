@@ -7,7 +7,7 @@ app is accessed on port 3000. modify test.html to fit the client definitions in 
 
 http://fqdn or ip of node box:3000/test.html
 
-[http:// fqdn or ip of node box](http://localhost)
+[http:// fqdn or ip of node box:3000/test.html](http://localhost:3000/test.html)
 
 The code will contact the gluu server and display a page with info.
 click the button to authenticate.
