@@ -46,6 +46,6 @@ npm start
         
 Change client_id, redirect_url, and OIDC.discover to match your environment.
        
-**4:** Test by pointing a browser at http://fqdn or ip of node box/:3000/test.html
+**4:** Test by pointing a browser at http://fqdn_or_IP_of_node_box/:3000/test.html
          
 
